@@ -1,5 +1,6 @@
 # Notes: Mas-Colell 10.C Partial Equilibrium Competitive Analysis
-Personal notes of partial equilibrium competitive analysis
+
+実証IOは基本的に特定のマーケットにフォーカスした部分均衡分析であるため考え方を整理しておく。
 
 Partial equiliburium analysis is justified by the following reasons:
 - When the expenditure on the good under study is a small portion of a counsumer's total expenditure, only a small fraction of any additional doller of wealth will be spent on this good; consequently, we can expect wealth effects for it to be small.
