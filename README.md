@@ -7,3 +7,8 @@ Partial equiliburium analysis is justified by the following reasons:
 - With similarly dispersed substitution effects, the small size of the market under study shiould lead the prices of other goods to be appoximately unaffected by changes in this market.
 
 →要は他の市場における財との所得効果・代替効果が小さく、他の市場の需要・価格に影響をおよぼさない場合部分均衡分析が正当化される。
+
+## Settings
+- Each consumer $i = 1, ..., I$ has a utility function: $u_{i}(m_{i}, x_{i}) = m_{i} + \phi_{i}(x_{i})$
+→（上記justificationの通り）所得効果のないモデルを考えたいので準線形の効用関数を考える。
+- 
