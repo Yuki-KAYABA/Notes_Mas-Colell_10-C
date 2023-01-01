@@ -10,5 +10,6 @@ Partial equiliburium analysis is justified by the following reasons:
 
 ## Settings
 - Each consumer $i = 1, ..., I$ has a utility function: $u_{i}(m_{i}, x_{i}) = m_{i} + \phi_{i}(x_{i})$
-→（上記justificationの通り）所得効果のないモデルを考えたいので準線形の効用関数を考える。
+
+→上記justificationの通り、所得効果のないモデルを考えたいので準線形の効用関数を考える。
 - 
